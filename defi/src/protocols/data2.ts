@@ -21123,7 +21123,7 @@ const data2: Protocol[] = [
   },
   {
     id: "2292",
-    name: "Bake.io (formerly Cake DeFi)",
+    name: "Bake.io",
     address: null,
     symbol: "-",
     url: "https://www.bake.io",
@@ -21136,7 +21136,7 @@ const data2: Protocol[] = [
     gecko_id: null,
     cmcId: null,
     category: "CEX",
-    chains: ["Ethereum", "Bitcoin", "Polygon", "Solana"],
+    chains: ["Ethereum", "Bitcoin", "Polygon"],
     module: "cake-defi/index.js",
     twitter: "bake_io",
     forkedFrom: [],

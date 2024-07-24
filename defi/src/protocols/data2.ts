@@ -21123,20 +21123,20 @@ const data2: Protocol[] = [
   },
   {
     id: "2292",
-    name: "Bake.io (formerly Cake DeFi)",
+    name: "Bake.io", // previous Cake DeFi
     address: null,
     symbol: "-",
     url: "https://www.bake.io",
     description:
       "Bake.io (formerly Cake DeFi) is a Singapore-based crypto platform providing easy access to decentralized finance (DeFi) services and applications. Bake empowers customers to generate returns on their digital assets in a secure and transparent way. Bake combines the customer support and ease-of-use of centralized finance (CeFi) and the transparency and traceability of DeFi, shaping a superior CeDeFi experience for retail customers.  For more information, please visit bake.io",
     chain: "Ethereum",
-    logo: `${baseIconsUrl}/cake-defi.jpg`,
+    logo: `${baseIconsUrl}/bake.io.jpg`,
     audits: "0",
     audit_note: null,
     gecko_id: null,
     cmcId: null,
     category: "CEX",
-    chains: ["Ethereum", "Bitcoin", "Polygon", "Solana"],
+    chains: ["Ethereum", "Bitcoin", "Polygon"],
     module: "cake-defi/index.js",
     twitter: "bake_io",
     forkedFrom: [],
@@ -25508,7 +25508,7 @@ const data2: Protocol[] = [
     description:
       "Perennial is a decentralized derivatives protocol built from first-principles to be a powerful, flexible, and composable primitive that can scale to meet the needs of DeFi traders, liquidity providers, and developers.",
     chain: "Ethereum",
-    logo: `${baseIconsUrl}/perennial.jpg`,
+    logo: `${baseIconsUrl}/perennial-v1.jpg`,
     audits: "2",
     audit_note: null,
     gecko_id: null,
